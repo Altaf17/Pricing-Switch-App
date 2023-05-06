@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import SubList from './Components/Subscribtion/SubList';
+import SubList from "./Components/Subscribtion/SubList";
 
 function App() {
   return (
     <div className="App">
-      <SubList/>
+      <SubList />
     </div>
   );
 }
